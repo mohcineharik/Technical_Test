@@ -1,0 +1,13 @@
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.exe
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.deps.json
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.runtimeconfig.json
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.runtimeconfig.dev.json
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.dll
+C:\Users\Harik\source\repos\Technical_Test\bin\Debug\netcoreapp3.1\Technical_Test.pdb
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.csprojAssemblyReference.cache
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.AssemblyInfoInputs.cache
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.AssemblyInfo.cs
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.csproj.CoreCompileInputs.cache
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.dll
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.pdb
+C:\Users\Harik\source\repos\Technical_Test\obj\Debug\netcoreapp3.1\Technical_Test.genruntimeconfig.cache
